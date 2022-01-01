@@ -3,7 +3,7 @@ widget: hero
 active: false
 headless: true
 weight: 10
-title: Negera Wakgari Deresa
+title: Hugo Academic Theme
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
