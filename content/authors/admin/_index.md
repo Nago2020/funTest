@@ -1,52 +1,49 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include statistical theory, survival analysis, semiparametric estimation and inference
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Statistics
+    institution: KU Leuven
+    year: 2020
+  - course: MSc in Biostatistics
+    institution: Hasselt University
+    year: 2015
+  - course: BSc in Statistics
+    institution: University of Gondar
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: negerawakgari.deresa@kuleuven.be
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Dependent Censoring
+- Copulas
+- Semiparametric models
+- Survival Analysis
+- Annuity Valuation
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: KU Leuven
+  url: https://www.kuleuven.be/
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:negerawakgari.deresa@kuleuven.be 
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+ # icon: twitter
+ # icon_pack: fab
+ # label: Follow me on Twitter
+ # link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=octeaMcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Nago2020
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-superuser: true
-title: Alice Bighetti (吳恩達)
+  link: https://www.linkedin.com/in/negera-w-deresa-9bb2a095/
+superuser: false
+title: Negera Wakgari Deresa
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a postdoc researcher at KU Leuven, Belgium, affiliated with the ORSTAT department within the Faculty of Economics and Business. Before moving to KU Leuven, I held a lectureship position at Wollega University, Ethiopia. This position allowed me to teach several undergraduate and graduate courses, including Multivariate Statistics, Statistical Inference, Regression Analysis, Biostatistics for pharmacy, and Research methods. I often write R codes to conduct analyses and inferences for my research projects. 
