@@ -1,3 +1,4 @@
+
 ---
 outputs:
 - wowchemycms_config

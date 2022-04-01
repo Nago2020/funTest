@@ -1,5 +1,5 @@
 ---
-bio: My research interests include Dependent censoring, Semiparametric  modelling and inference and copulas.
+bio: My research interests include Dependent censoring, Semiparametric  modelling, Survival analysis, Competing risks and copulas.
 education:
   courses:
   - course: PhD in Statistics
